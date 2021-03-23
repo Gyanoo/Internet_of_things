@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53b9dd17-ca6c-40d3-a36c-1aeb07e1087f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k68V8m2E4iOCsCA1fdgFTjFs0p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.lobby">
+    <configuration name="bathroom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bathroom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bedroom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bedroom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kitchen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kitchen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="livingRoom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/livingRoom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lobby" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lobby.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lobby" />
+        <item itemvalue="Python.kitchen" />
+        <item itemvalue="Python.livingRoom" />
+        <item itemvalue="Python.bedroom" />
+        <item itemvalue="Python.bathroom" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53b9dd17-ca6c-40d3-a36c-1aeb07e1087f" name="Default Changelist" comment="" />
+      <created>1605009702824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605009702824</updated>
+      <workItem from="1605009706745" duration="7649000" />
+      <workItem from="1605545324933" duration="118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="264" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605009994830">
+      <screen x="-478" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="264" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605009994830" />
+    <state width="2518" height="245" key="GridCell.Tab.0.bottom" timestamp="1605017706492">
+      <screen x="-478" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605017706492" />
+    <state width="2518" height="245" key="GridCell.Tab.0.bottom/0.23.1440.825/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605016787015" />
+    <state width="2518" height="245" key="GridCell.Tab.0.bottom/0.23.1440.827/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605016159980" />
+    <state width="2518" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605017465150" />
+    <state width="2518" height="245" key="GridCell.Tab.0.center" timestamp="1605017706489">
+      <screen x="-478" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605017706489" />
+    <state width="2518" height="245" key="GridCell.Tab.0.center/0.23.1440.825/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605016787013" />
+    <state width="2518" height="245" key="GridCell.Tab.0.center/0.23.1440.827/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605016159976" />
+    <state width="2518" height="245" key="GridCell.Tab.0.center/0.23.1440.877/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605017465148" />
+    <state width="2518" height="245" key="GridCell.Tab.0.left" timestamp="1605017706488">
+      <screen x="-478" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605017706488" />
+    <state width="2518" height="245" key="GridCell.Tab.0.left/0.23.1440.825/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605016787008" />
+    <state width="2518" height="245" key="GridCell.Tab.0.left/0.23.1440.827/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605016159975" />
+    <state width="2518" height="245" key="GridCell.Tab.0.left/0.23.1440.877/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605017465147" />
+    <state width="2518" height="245" key="GridCell.Tab.0.right" timestamp="1605017706491">
+      <screen x="-478" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605017706491" />
+    <state width="2518" height="245" key="GridCell.Tab.0.right/0.23.1440.825/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605016787014" />
+    <state width="2518" height="245" key="GridCell.Tab.0.right/0.23.1440.827/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605016159977" />
+    <state width="2518" height="245" key="GridCell.Tab.0.right/0.23.1440.877/-478.-1440.2560.1440@-478.-1440.2560.1440" timestamp="1605017465149" />
+    <state x="311" y="-1081" key="SettingsEditor" timestamp="1605010074525">
+      <screen x="-478" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="311" y="-1081" key="SettingsEditor/0.23.1440.825/-478.-1417.2560.1417@-478.-1417.2560.1417" timestamp="1605010074525" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab3$smart_house_mqtt_example.coverage" NAME="smart_house_mqtt_example Coverage Results" MODIFIED="1605013162513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab3$bedroom.coverage" NAME="bedroom Coverage Results" MODIFIED="1605017216704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab3$bathroom.coverage" NAME="bathroom Coverage Results" MODIFIED="1605017183349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab3$lobby.coverage" NAME="lobby Coverage Results" MODIFIED="1605017674383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab3$livingRoom.coverage" NAME="livingRoom Coverage Results" MODIFIED="1605017326907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab3$kitchen.coverage" NAME="kitchen Coverage Results" MODIFIED="1605017404160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
